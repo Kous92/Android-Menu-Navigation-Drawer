@@ -1,0 +1,4 @@
+#Tue Mar 27 16:40:45 CEST 2018
+base.0=/Users/Kous92/AndroidStudioProjects/MenuSidebarTest/app/build/intermediates/transforms/dexMerger/debug/45
+path.0=classes.dex
+renamed.0=classes.dex
